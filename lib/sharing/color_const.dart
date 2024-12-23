@@ -1,0 +1,7 @@
+import 'dart:ui';
+
+class AppColors {
+  static const Color kContentColor = Color(0xfffdfdfd);
+  static const Color kscaffoldBackgroundColor = Color(0xfffdfdfd);
+  static const Color kTextAndIconColor = Color(0x001c3941);
+}
